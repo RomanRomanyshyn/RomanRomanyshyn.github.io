@@ -1,0 +1,12 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "P3DZV22SV4.Roman.CustomSDK",
+			"paths": [
+				"/auth",
+				"/download"
+			]
+		}]
+	}
+}
