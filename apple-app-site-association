@@ -2,11 +2,11 @@
 	"applinks": {
 		"apps": [],
 		"details": [{
-			"appID": "P3DZV22SV4.Roman.CustomSDK",
-			"paths": [
-				"/auth",
-				"/download"
-			]
+			"appID": "J9RLYA96RJ.com.vakoms.HryvniaToday",
+			"paths": ["*"]
 		}]
+	},
+	"appclips": {
+		"apps": ["J9RLYA96RJ.com.vakoms.HryvniaToday.Clip"]
 	}
 }
